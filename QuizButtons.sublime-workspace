@@ -1,0 +1,379 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"setP",
+				"setParent\tfunction"
+			],
+			[
+				"wi",
+				"windowFlags\tfunction"
+			],
+			[
+				"setWin",
+				"setWindowFlag\tfunction"
+			],
+			[
+				"act",
+				"notActivityButton"
+			],
+			[
+				"nRF",
+				"nRF_TX_data"
+			],
+			[
+				"delay",
+				"delayButtonPush"
+			],
+			[
+				"no",
+				"notActivityButton"
+			],
+			[
+				"nRF_",
+				"nRF_TX_data"
+			],
+			[
+				"Write",
+				"Write_ACK_payload"
+			],
+			[
+				"def",
+				"define"
+			],
+			[
+				"spi",
+				"spi_PORT"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "QuizButtons.py",
+			"settings":
+			{
+				"buffer_size": 12233,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "resources.qrc",
+			"settings":
+			{
+				"buffer_size": 128,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Install Package Control",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Program/Arduino Project/python/QuizButtons"
+	],
+	"file_history":
+	[
+		"/D/Никита/Работа/Cadence/Triumph-Omega-2/Bottom-2/Rev.1.1/FOR_FACTORY/06-620242-01R1/06-620242-01R1_1-4.rou",
+		"/D/Никита/Работа/Cadence/Triumph-Omega-2/Bottom-2/Rev.2.1/FOR_FACTORY/06-620242-01R2/06-620242-01R2_1-4.rou",
+		"/D/Program/Arduino Project/python/QuizButtons/pesources.qrc",
+		"/D/Program/Arduino Project/ATMEGA328/ATMEGA328.ino",
+		"/D/Program/Arduino Project/router_nRF24L01/HAL.h",
+		"/D/Program/Arduino Project/router_nRF24L01/RingBuffer.h",
+		"/C/Users/Никита/AppData/Local/Arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/avr/include/util/delay.h",
+		"/C/Users/Никита/AppData/Local/Arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/avr/include/avr/interrupt.h",
+		"/D/Program/Arduino Project/router_nRF24L01/avrlibtypes.h",
+		"/D/Program/Arduino Project/router_nRF24L01/avrlibdefs.h",
+		"/C/Users/Никита/AppData/Local/Arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/avr/include/avr/pgmspace.h",
+		"/C/Users/Никита/AppData/Local/Arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/avr/include/avr/io.h",
+		"/D/Program/Arduino Project/router_nRF24L01/EERTOS.h",
+		"/D/Program/Arduino Project/router_nRF24L01/EERTOS.c",
+		"/D/Program/Arduino Project/router_nRF24L01/usart.c",
+		"/D/Никита/Работа/Cadence/TR-2S/Rev.3.1/FOR_FACTORY/06-700011-0XR3/06-700011-0XR3-1-2.drl",
+		"/D/Program/Arduino Project/ATMEGA328/IIC_ultimate.h",
+		"/D/Program/Arduino Project/ATMEGA328/IIC_ultimate.c",
+		"/D/Program/Arduino Project/nRF_SPI_USART/Data/init.c",
+		"/D/Program/Arduino Project/Arduino+nRF24L01/RingBuffer.h",
+		"/D/Program/Arduino Project/Arduino+nRF24L01/usart.h",
+		"/D/Program/Arduino Project/nRF_SPI_USART/SPI_USART.atsln",
+		"/D/Program/Arduino Project/Arduino+nRF24L01/SPI.h",
+		"/D/Program/Arduino Project/Arduino+nRF24L01/SPI.c",
+		"/D/Program/Arduino Project/Arduino+nRF24L01/EERTOSHAL.h",
+		"/D/Program/Arduino Project/Arduino+nRF24L01/Arduino+nRF24L01.ino",
+		"/D/Program/Arduino Project/ATMEGA328/HAL.c",
+		"/D/Program/Arduino Project/ATMEGA328/HAL.h",
+		"/D/Program/Arduino Project/ATMEGA328/RingBuffer.h",
+		"/D/Program/Arduino Project/ATMEGA328/usart.c",
+		"/D/Program/Arduino Project/ATMEGA328/usart.h",
+		"/D/Program/Arduino Project/ATMEGA328/EERTOSHAL.c",
+		"/D/Program/Arduino Project/ATMEGA328/EERTOS.c",
+		"/D/Никита/Ragnarok/AutoHotkey/AHK 3/Танцы_new.ahk",
+		"/D/Никита/Работа/Cadence/RS-3S/allegro/netrev.lst",
+		"/D/Никита/Работа/Cadence/TR-2S/Rev.2.1/allegro/netrev.lst",
+		"/D/Program/Arduino Project/ATMEGA328/avrlibtypes.h",
+		"/C/Users/Никита/AppData/Local/Arduino15/packages/arduino/tools/avrdude/6.3.0-arduino17/etc/avrdude.conf",
+		"/C/Users/Никита/AppData/Local/Arduino15/config.stino-settings",
+		"/C/Users/Никита/AppData/Local/Arduino15/build/ATMEGA328/last_build.stino-settings",
+		"/D/Никита/Ragnarok/AutoHotkey/AHK 3/Танцы.ahk",
+		"/D/Никита/Ragnarok/OriginsRO/AI/USER_AI/Config.lua",
+		"/D/Никита/Ragnarok/AutoHotkey/AHK 3/Варка+танцы.ahk",
+		"/D/Никита/Ragnarok/AutoHotkey/AHK 3/SPPauto.ahk",
+		"/D/Никита/Работа/Cadence/TR-3S/allegro/netrev.lst",
+		"/D/Никита/Работа/Cadence/Triumph-Omega-2/TOP_LEDs/REV.3.1/allegro/netrev.lst",
+		"/D/Никита/Ragnarok/AutoHotkey/AHK 3/MushroomsSG.ahk",
+		"/D/Никита/Ragnarok/AutoHotkey/AHK 3/SPP.ahk",
+		"/D/Никита/Работа/Cadence/TR-2S/allegro/shape_state.rpt",
+		"/D/Никита/Работа/Cadence/Triumph-Omega-2/Bottom-2/allegro/05-620242-01R1_1-4.1_b",
+		"/D/Никита/Работа/Cadence/TR-2S/allegro/shape_islands.rpt",
+		"/C/Users/Никита/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Никита/AppData/Roaming/Sublime Text 3/Packages/User/Stino/app_dir.stino-settings",
+		"/D/Никита/Ragnarok/AutoHotkey/AHK 3/Varka.ahk",
+		"/D/Никита/Ragnarok/AutoHotkey/AHK 3/Mushrooms.ahk",
+		"/D/Никита/Ragnarok/AutoHotkey/AHK 3/Виз+танцы.ahk"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"F_CPU",
+			"activityButton",
+			"Start"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "QuizButtons.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12233,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11527,
+								11528
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1944.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "resources.qrc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 128,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								63,
+								76
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 51.2
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.790993071594,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.stino_build_panel":
+	{
+		"height": 132.0
+	},
+	"output.stino_panel":
+	{
+		"height": 132.0
+	},
+	"pinned_build_system": "Packages/User/PythonREPL.sublime-build",
+	"project": "QuizButtons.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
